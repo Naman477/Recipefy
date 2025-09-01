@@ -61,8 +61,8 @@ smart-recipe/
 ## How to Run Locally
 
 1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
+    ```bash[
+    [git clone ](https://github.com/Naman477/Recipefy.git)
     cd smart-recipe
     ```
 2.  **Install dependencies:**
@@ -77,4 +77,4 @@ smart-recipe/
 
 ## Deployment
 
-This application can be easily deployed to Netlify. See [Netlify Deployment Guide](#netlify-deployment-guide) for detailed instructions.
+This application can be easily deployed to Netlify. See [#netlify-deployment-guide](https://reciipefy.netlify.app/) for detailed instructions.
