@@ -62,7 +62,7 @@ smart-recipe/
 
 1.  **Clone the repository:**
     ```bash[
-    [git clone ](https://github.com/Naman477/Recipefy.git)
+    git clone https://github.com/Naman477/Recipefy.git
     cd smart-recipe
     ```
 2.  **Install dependencies:**
@@ -75,6 +75,6 @@ smart-recipe/
     ```
     The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
 
-## Deployment
+## Live Preview
 
-This application can be easily deployed to Netlify. See [#netlify-deployment-guide](https://reciipefy.netlify.app/) for detailed instructions.
+This application can be easily deployed to Netlify. See https://reciipefy.netlify.app/ 
